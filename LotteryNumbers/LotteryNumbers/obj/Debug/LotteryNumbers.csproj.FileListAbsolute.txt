@@ -9,3 +9,14 @@ C:\Users\381697\Desktop\coding\CSharp\LotteryNumbers\LotteryNumbers\bin\Debug\Lo
 C:\Users\381697\Desktop\coding\CSharp\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.pdb
 C:\Users\381697\Desktop\coding\CSharp\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.exe
 C:\Users\381697\Desktop\coding\CSharp\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.pdb
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.exe.config
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.exe
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.pdb
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.csproj.AssemblyReference.cache
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.Form1.resources
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.Properties.Resources.resources
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.csproj.GenerateResource.cache
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.exe
+C:\Users\381697\Desktop\coding\CSharp\Lottery-Game\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.pdb

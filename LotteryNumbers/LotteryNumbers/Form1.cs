@@ -78,7 +78,7 @@ namespace LotteryNumbers
             label4.Text = "Money spent: $" + moneySpent;
 
         }
-        //New comment
+        
 
         
     }
